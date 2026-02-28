@@ -133,7 +133,7 @@ const App = () => {
             </div>
             <div className="p-6 rounded-lg border-l-4 border-cyan-500 bg-gray-900/30">
               <h4 className="text-xl font-semibold text-cyan-300">Associate Engineer — Volansys</h4>
-              <p className="text-gray-400">2017 - 2019 · Backend services and cloud foundations.</p>
+              <p className="text-gray-400">2017 - 2019 · Mobile Application Development & CI/CD.</p>
             </div>
           </div>
         </div>
